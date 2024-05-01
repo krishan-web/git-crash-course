@@ -22,3 +22,6 @@ console.log("My name is krishan");
 // git reset --hard commit_id
 
 "Something to be removed like git revert command" 
+
+const hello="Krishna is added to the comment";
+console.log(hello);
