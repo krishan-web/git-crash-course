@@ -20,3 +20,5 @@ console.log("My name is krishan");
 
 // Reverting Back:
 // git reset --hard commit_id
+
+"Something to be removed like git revert command" 
